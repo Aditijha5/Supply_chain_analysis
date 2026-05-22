@@ -1,4 +1,4 @@
-🚚 End-to-End Supply Chain Performance Analysis
+🚚** End-to-End Supply Chain Performance Analysis**
 
 📌 Project Overview
 Developed an end-to-end supply chain analytics project to analyze delivery performance for a global e-commerce dataset containing 180K+ order records. The project focused on identifying operational inefficiencies, measuring the business impact of delivery delays, and generating actionable recommendations to improve on-time delivery performance and profitability.
